@@ -99,3 +99,9 @@ class MainActivity : FragmentActivity() {
         mBackgroundImage!!.setImageBitmap(bitmap)
     }
 }
+/*
+### Download It
+
+<a href="https://play.google.com/store/apps/details?id=com.snatik.matches">
+<img alt="Android app on Google Play" src="https://developer.android.com/images/brand/en_app_rgb_wo_45.png" />
+</a>*/
